@@ -31,9 +31,4 @@ Runs daily using EventBridge Scheduler.
 ## 💰 Cost Optimization
 Removes unused snapshots to reduce AWS billing.
 
-## 🧪 Testing
-Use:
-rate(5 minutes)
 
-## 📌 Author
-Your Name
