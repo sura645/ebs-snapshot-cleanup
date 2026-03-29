@@ -40,8 +40,5 @@ Removes unused snapshots to reduce AWS billing.
 ### 🔹 EventBridge Scheduler
 ![Scheduler](screenshots/scheduler.png)
 
-### 🔹 CloudWatch Logs
-![Logs](screenshots/logs.png)
-
 ### 🔹 IAM Role
 ![IAM](screenshots/iam-role.png)
